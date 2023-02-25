@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=300&section=header&text=YEONWOOK%20GITHUB&fontSize=50&fontColor=ffffff)
-### 안녕하세요 2년차 백엔드 개발자 최연욱입니다 👋
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<div align="center">
+  안녕하세요 2년차 백엔드 개발자 최연욱입니다 👋
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+</div>
+
 <!--
 **choiyounwook/choiyounwook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
