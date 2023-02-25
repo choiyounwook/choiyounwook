@@ -1,6 +1,6 @@
 
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=300&section=header&text=YEONWOOK%20GITHUB&fontSize=50&fontColor=ffffff)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=300&section=header&text=YEONWOOK%20GITHUB&fontSize=50&fontColor=ffffff" />
   <h2>안녕하세요 2년차 백엔드 개발자 최연욱입니다 👋</h2>
 </div>
 <div align="center">
