@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=300&section=header&text=YEONWOOK%20GITHUB&fontSize=50&fontColor=ffffff)
-### Hi there 👋
+### 안녕하세요 2년차 백엔드 개발자 최연욱입니다 👋
 
 <!--
 **choiyounwook/choiyounwook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
