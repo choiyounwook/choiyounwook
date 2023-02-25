@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=YEONWOOK%GITHUB&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=YEONWOOK%20GITHUB&fontSize=50)
 ### Hi there 👋
 
 <!--
