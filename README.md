@@ -1,9 +1,9 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=300&section=header&text=YEONWOOK%20GITHUB&fontSize=50&fontColor=ffffff" />
-  <h2 style="border-bottom:0px">안녕하세요 2년차 백엔드 개발자 최연욱입니다 👋</h2>
+  <h4>안녕하세요 2년차 백엔드 개발자 최연욱입니다 👋</h4>
   <br/>
-  <h1>🛠 Tech Stack 🛠</h1>
+  <h3>🛠 Tech Stack 🛠</h3>
   <br/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
@@ -20,7 +20,7 @@
   <br/>
   <br/>
   <br/>
-   <h1>✨ 개인 프로젝트 ✨ </h1>
+   <h3>✨ 개인 프로젝트 ✨ </h3>
   <p><a href="https://github.com/choiyounwook/HappyHouse">HappyHouse 2020.04 ~ 2020.06</a></p>
   <p><a href="https://github.com/choiyounwook/CallengeSNS">챌린저 2020.06 ~ 2020.08</a></p>
   <p><a href="https://github.com/choiyounwook/yeongwoo-plate">영우 플레이드 2020.08 ~ 2020.10</a></p>
@@ -29,7 +29,7 @@
   <br/>
   <br/>
   <br/>
-   <h1>🤔 알고리즘 공부 🤔 </h1>
+   <h3>🤔 알고리즘 공부 🤔 </h3>
   <p> 주 2회 이상 코딩 문제 푸는 것을 목표로 하고 있습니다.</p>
   <a href="https://github.com/choiyounwook/CodingTest">구경하기</a>
 </div>
