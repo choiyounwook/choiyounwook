@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=300&section=header&text=YEONWOOK%20GITHUB&fontSize=50&fontColor=ffffff" />
-  <h4>안녕하세요 2년차 백엔드 개발자 최연욱입니다 👋</h4>
+  <h4>안녕하세요 3년차 백엔드 개발자 최연욱입니다 👋</h4>
   <br/>
   <h3>🛠 Tech Stack 🛠</h3>
   <br/>
@@ -25,7 +25,7 @@
   <p><a href="https://github.com/choiyounwook/CallengeSNS">챌린저 2020.06 ~ 2020.08</a></p>
   <p><a href="https://github.com/choiyounwook/yeongwoo-plate">영우 플레이드 2020.08 ~ 2020.10</a></p>
   <p><a href="https://github.com/choiyounwook/camstudy">캠공 2020.10 ~ 2020.12</a></p>
-  <p>✨New✨ <a href="https://github.com/choiyounwook/yeongwoo-plate">영우 플레이드 백엔드 2023.02 ~ </a></p>
+  <p>✨New✨ 왜지감자 프로젝트 백엔드 2023.10 ~ </p>
   <br/>
   <br/>
   <br/>
